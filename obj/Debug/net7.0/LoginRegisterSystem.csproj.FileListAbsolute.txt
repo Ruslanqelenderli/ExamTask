@@ -1,0 +1,14 @@
+D:\NewProjects\LoginRegisterSystem\LoginRegisterSystem\bin\Debug\net7.0\LoginRegisterSystem.exe
+D:\NewProjects\LoginRegisterSystem\LoginRegisterSystem\bin\Debug\net7.0\LoginRegisterSystem.deps.json
+D:\NewProjects\LoginRegisterSystem\LoginRegisterSystem\bin\Debug\net7.0\LoginRegisterSystem.runtimeconfig.json
+D:\NewProjects\LoginRegisterSystem\LoginRegisterSystem\bin\Debug\net7.0\LoginRegisterSystem.dll
+D:\NewProjects\LoginRegisterSystem\LoginRegisterSystem\bin\Debug\net7.0\LoginRegisterSystem.pdb
+D:\NewProjects\LoginRegisterSystem\LoginRegisterSystem\obj\Debug\net7.0\LoginRegisterSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewProjects\LoginRegisterSystem\LoginRegisterSystem\obj\Debug\net7.0\LoginRegisterSystem.AssemblyInfoInputs.cache
+D:\NewProjects\LoginRegisterSystem\LoginRegisterSystem\obj\Debug\net7.0\LoginRegisterSystem.AssemblyInfo.cs
+D:\NewProjects\LoginRegisterSystem\LoginRegisterSystem\obj\Debug\net7.0\LoginRegisterSystem.csproj.CoreCompileInputs.cache
+D:\NewProjects\LoginRegisterSystem\LoginRegisterSystem\obj\Debug\net7.0\LoginRegisterSystem.dll
+D:\NewProjects\LoginRegisterSystem\LoginRegisterSystem\obj\Debug\net7.0\refint\LoginRegisterSystem.dll
+D:\NewProjects\LoginRegisterSystem\LoginRegisterSystem\obj\Debug\net7.0\LoginRegisterSystem.pdb
+D:\NewProjects\LoginRegisterSystem\LoginRegisterSystem\obj\Debug\net7.0\LoginRegisterSystem.genruntimeconfig.cache
+D:\NewProjects\LoginRegisterSystem\LoginRegisterSystem\obj\Debug\net7.0\ref\LoginRegisterSystem.dll
